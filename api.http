@@ -20,3 +20,6 @@ Content-Type: application/json
   "asset_id": "asset1",
   "price": 100
 }
+
+### 
+GET http://localhost:3000/
